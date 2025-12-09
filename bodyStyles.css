@@ -24,7 +24,6 @@ body {
 /* Image Styling */
 img {
     width: 100%;
-    height: auto;
     object-fit: cover;
     border: 5px double #000;     /* Bold double-line border */
     box-sizing: border-box;
